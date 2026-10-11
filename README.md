@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&weight=700&size=36&duration=3000&pause=500&color=000000&background=transparent&center=true&vCenter=true&width=700&height=110&lines=Hi%2C+I+am+Aditya+Patange" alt="Typing SVG" />
 
 ```
-  ___     _ _   _                    ____       _                           
- / _ \   | (_) | |_  _   _  __ _    |  _ \ __ _| |_ __ _ _ __   __ _  ___ 
+  ___     _ _   _                     ____       _                           
+ / _ \   | (_) | |_  _   _  __ _     |  _ \ __ _| |_ __ _ _ __   __ _  ___ 
 / /_\ \  | | | | __| | | | |/ _` |   | |_) / _` | __/ _` | '_ \ / _` |/ _ \
 /  _  \  | | | | |_  | |_| | (_| |   |  __/ (_| | || (_| | | | | (_| |  __/
 \_/ \_\  |_|_|  \__|  \__, |\__,_|   |_|   \__,_|\__\__,_|_| |_|\__, |\___|
