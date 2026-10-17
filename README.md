@@ -36,7 +36,7 @@ I obsess over **building things that bridge the digital and physical worlds**. M
 
 ---
 
-## 🔥 Currently Cooking
+## 🔥 Currently Cooking.
 
 | Project | Status | Stack |
 |---------|--------|-------|
@@ -96,7 +96,7 @@ Tech: Python, ML algorithms, Data visualization, Analytics dashboards
 
 ---
 
-## 📈 GitHub Presence
+## 📈 GitHub Presence.
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Tech: Python, ML algorithms, Data visualization, Analytics dashboards
 
 ---
 
-## 🧠 My Learning Philosophy
+## 🧠 My Learning Philosophy..
 
 ```
 ┌─────────────────────────────────────────────────┐
